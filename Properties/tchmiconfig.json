@@ -39,10 +39,6 @@
   "content": [],
   "views": [
     {
-      "url": "BCGapMode.view",
-      "preload": false
-    },
-    {
       "url": "DebugMode.view",
       "preload": false
     },
@@ -51,19 +47,11 @@
       "preload": false
     },
     {
-      "url": "GapMode.view",
-      "preload": false
-    },
-    {
       "url": "Parameters.view",
       "preload": false
     },
     {
       "url": "SingleCarrierMode.view",
-      "preload": false
-    },
-    {
-      "url": "TaperMode.view",
       "preload": false
     },
     {

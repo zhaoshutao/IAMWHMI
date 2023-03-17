@@ -11,7 +11,7 @@
     <HmiVerboseLevel>2</HmiVerboseLevel>
     <HmiVersion>1.0.0.0</HmiVersion>
     <Name>HMI</Name>
-    <HmiCommunicationRouterPort>10115</HmiCommunicationRouterPort>
+    <HmiCommunicationRouterPort>10117</HmiCommunicationRouterPort>
     <HmiFrameworkVersion>Latest</HmiFrameworkVersion>
     <HmiCommunicationServerPort>3002</HmiCommunicationServerPort>
     <HmiInitial>1.10.1342.0</HmiInitial>
@@ -83,6 +83,9 @@
   <Target Name="ReBuild" DependsOnTargets="Clean; Build" />
   <Target Name="Clean" DependsOnTargets="BaseClean" />
   <ItemGroup>
+    <Content Include="Images\IAMW.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Parameters.view">
       <SubType>Content</SubType>
     </Content>
@@ -125,9 +128,6 @@
       <SubType>Content</SubType>
       <Visible>true</Visible>
     </Content>
-    <Content Include="BCGapMode.view">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="DebugMode.view">
       <SubType>Content</SubType>
     </Content>
@@ -142,9 +142,6 @@
     <Content Include="Fonts\Roboto-Condensed-webfont.woff">
       <SubType>Content</SubType>
       <Visible>true</Visible>
-    </Content>
-    <Content Include="GapMode.view">
-      <SubType>Content</SubType>
     </Content>
     <Content Include="Server\Extensions\ADS\ADS.Config.default.json">
       <SubType>Content</SubType>
@@ -219,9 +216,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="SingleCarrierMode.view">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="TaperMode.view">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Themes\Base\Base.theme">
