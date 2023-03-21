@@ -42,7 +42,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -160,7 +160,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -278,7 +278,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -396,7 +396,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -514,7 +514,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -632,7 +632,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -750,7 +750,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftBottom_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -868,7 +868,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightTop_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightTop_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -986,7 +986,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightTop_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightTop_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1104,7 +1104,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightTop_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightTop_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1222,7 +1222,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightTop_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightTop_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1340,7 +1340,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1458,7 +1458,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1576,7 +1576,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1694,7 +1694,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightBottom_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -1906,7 +1906,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftTop_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -2938,14 +2938,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_106.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -2965,14 +2958,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_107.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3024,14 +3010,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_108.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3051,14 +3030,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_109.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3086,14 +3058,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_110.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3113,14 +3078,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_111.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3148,14 +3106,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_112.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3175,14 +3126,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_113.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -3368,7 +3312,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -3486,7 +3430,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -3604,7 +3548,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -3722,7 +3666,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -3840,7 +3784,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -3958,7 +3902,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4076,7 +4020,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftOut_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4194,7 +4138,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightIn_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightIn_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4312,7 +4256,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightIn_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightIn_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4406,7 +4350,7 @@
 
 </div>
 
-<div id="TcHmiEllipse_102" data-tchmi-type="tchmi-ellipse" data-tchmi-height="22" data-tchmi-height-unit="px" data-tchmi-left="458" data-tchmi-left-unit="px" data-tchmi-top="160" data-tchmi-top-unit="px" data-tchmi-width="22" data-tchmi-width-unit="px" data-tchmi-zindex="2">
+<div id="TcHmiEllipse_102" data-tchmi-type="tchmi-ellipse" data-tchmi-height="22" data-tchmi-height-unit="px" data-tchmi-left="458" data-tchmi-left-unit="px" data-tchmi-top="159" data-tchmi-top-unit="px" data-tchmi-width="22" data-tchmi-width-unit="px" data-tchmi-zindex="2">
 
 
 
@@ -4430,7 +4374,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightIn_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightIn_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4548,7 +4492,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightIn_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightIn_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4666,7 +4610,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightOut_Near_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightOut_Near_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4784,7 +4728,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightOut_Near_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightOut_Near_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -4902,7 +4846,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightOut_Far_Contact1%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightOut_Far_Contact1|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -5020,7 +4964,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_RightOut_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_RightOut_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -5194,7 +5138,7 @@
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
   {
-    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Far_Contact2%/s%",
+    "event": "%s%PLC1.Global_Variables.KS_LeftIn_Far_Contact2|Interval=1000%/s%",
     "actions": [
       {
         "objectType": "Condition",
@@ -5315,14 +5259,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_125.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5342,14 +5279,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_126.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5385,14 +5315,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_127.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5401,7 +5324,7 @@
 </script>
 </div>
 
-<div id="TcHmiTextbox_128" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="662" data-tchmi-left-unit="px"  data-tchmi-top="261" data-tchmi-top-unit="px" data-tchmi-width="319" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.MAIN.DriveDiagMessage_RightIn|Interval=10%/s%" data-tchmi-zindex="3">
+<div id="TcHmiTextbox_128" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="663" data-tchmi-left-unit="px"  data-tchmi-top="257" data-tchmi-top-unit="px" data-tchmi-width="319" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.MAIN.DriveDiagMessage_RightIn|Interval=10%/s%" data-tchmi-zindex="3">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -5412,14 +5335,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_128.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5447,14 +5363,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_129.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5474,14 +5383,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_130.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5509,14 +5411,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_131.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
@@ -5536,14 +5431,7 @@
 </script>
 
 
-<script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
-[
-  {
-    "event": "TcHmiTextbox_132.onTextChanged",
-    "actions": []
-  }
-]
-</script>
+
 
 <script data-tchmi-target-attribute="data-tchmi-background-color" type="application/json">
 {
