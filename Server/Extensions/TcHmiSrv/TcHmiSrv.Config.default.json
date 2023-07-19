@@ -3216,6 +3216,19 @@
             },
             "USEMAPPING": true
         },
+        "PLC1.Global_Variables.btn_Power": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::Global_Variables::btn_Power",
+            "OPTIONS": {
+                "comment": "key Command"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
         "PLC1.Global_Variables.m_restartTC": {
             "ACCESS": 3,
             "CUSTOMERDATA": "",
@@ -5354,7 +5367,7 @@
     "USERSELECTTYPE": 0,
     "VIDEOSEGMENTSIZE": 1048576,
     "VIRTUALDIRECTORIES": {
-        "/": "..\\..\\IAMWHMI",
+        "/": "..\\..\\HEPSHMI",
         "/framework": "C:\\TwinCAT\\Functions\\TE2000-HMI-Engineering\\Infrastructure\\TcHmiFramework\\1.10.1342.0"
     }
 }

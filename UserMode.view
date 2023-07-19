@@ -61,7 +61,7 @@
       {
         "objectType": "WriteToSymbol",
         "active": true,
-        "symbolExpression": "%s%PLC1.UserMode.btn_Power%/s%",
+        "symbolExpression": "%s%PLC1.Global_Variables.btn_Power%/s%",
         "valueType": "tchmi:general#/definitions/BOOL",
         "value": {
           "objectType": "StaticValue",
