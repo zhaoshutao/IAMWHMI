@@ -4090,6 +4090,237 @@
             },
             "USEMAPPING": true
         },
+        "PLC1.UserMode.Global_ChainProtection_EPS_BeamLineReady": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_BeamLineReady",
+            "OPTIONS": {
+                "comment": "Global Chain protection-EPS"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_Done": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_Done",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_In": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_In",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_In1": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_In1",
+            "OPTIONS": {
+                "comment": "ÃÃ‚Â½ÂµÃ‘Ã˜Â±Ã­ÃŠÂ¾Â´Â¥Â·Â¢,EL1124"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_In2": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_In2",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_ManualOperation": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_ManualOperation",
+            "OPTIONS": {
+                "comment": "Global_ChainProtection_Error: BOOL;\r\nGlobal_ChainProtection_ErrorID: INT;\r\nGlobal_ChainProtection_ErrorDescription: STRING;"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_MaxGapValue": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_MaxGapValue",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_MoveVelocity": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_MoveVelocity",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_On": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_On",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_Out1": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_Out1",
+            "OPTIONS": {
+                "comment": "Ã‰ÃÃ‰Ã½Ã‘Ã˜Â±ÃªÃŠÂ¶ÂµÂ½Â´Ã¯Ã—Ã®Â´Ã³Â¼Ã¤ÃÂ¶Â£Â¬ÃÂ¬Ã‹Ã¸Â±Â£Â»Â¤Â³Ã‰Â¹Â¦,EL2124"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_EPS_Out2": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_EPS_Out2",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_Done": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_Done",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_In": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_In",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_In1": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_In1",
+            "OPTIONS": {
+                "comment": "ÃÃ‚Â½ÂµÃ‘Ã˜Â±Ã­ÃŠÂ¾Â´Â¥Â·Â¢,EL1008"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_In2": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_In2",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_ManualOperation": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_ManualOperation",
+            "OPTIONS": {
+                "comment": "Global_ChainProtection_Error: BOOL;\r\nGlobal_ChainProtection_ErrorID: INT;\r\nGlobal_ChainProtection_ErrorDescription: STRING;"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_MaxGapValue": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_MaxGapValue",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_MoveVelocity": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_MoveVelocity",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_On": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_On",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_Out1": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_Out1",
+            "OPTIONS": {
+                "comment": "Ã‰ÃÃ‰Ã½Ã‘Ã˜Â±ÃªÃŠÂ¶ÂµÂ½Â´Ã¯Ã—Ã®Â´Ã³Â¼Ã¤ÃÂ¶Â£Â¬ÃÂ¬Ã‹Ã¸Â±Â£Â»Â¤Â³Ã‰Â¹Â¦,EL2624"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.UserMode.Global_ChainProtection_MPS_Out2": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::UserMode::Global_ChainProtection_MPS_Out2",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
         "PLC1.UserMode.Pos_LeftBottomLin_NoTaper": {
             "ACCESS": 3,
             "CUSTOMERDATA": "",
